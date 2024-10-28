@@ -15,8 +15,8 @@ A Selenium-based Python project to automate the extraction of match information 
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/football-match-scraper.git
-   cd football-match-scraper
+   git clone https://github.com/kietitmo/livescore-crawling.git
+   cd livescore-crawling
    ```
 
 2. **Install the required dependencies:**
@@ -30,8 +30,7 @@ A Selenium-based Python project to automate the extraction of match information 
    Create a `.env` file in the root directory to store your credentials. This project requires the following environment variables:
 
    ```plaintext
-   user=your_username
-   password=your_password
+   LOGS_DIR=your_log_dir
    ```
 
 2. **Download ChromeDriver**  
