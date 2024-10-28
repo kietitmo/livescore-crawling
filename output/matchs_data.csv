@@ -1,0 +1,91 @@
+home_team,away_team,home_score,away_score,startTime,referee,ref_citizenship,stadium,spectators,home_shots_on_target,away_shots_on_target,home_shots_off_target,away_shots_off_target,home_shots_blocked,away_shots_blocked,home_possession,away_possession,home_corners,away_corners,home_offsides,away_offsides,home_fouls,away_fouls,home_throw_ins,away_throw_ins,home_yellow_cards,away_yellow_cards,home_goalkeeper_saves,away_goalkeeper_saves,home_goalKicks,away_goalKicks
+Arsenal,Liverpool,2,2,27 Oct 2024,Anthony Taylor,England,Emirates Stadium,"60,383",3,4,4,3,2,2,45,55,1,3,2,1,14,14,15,20,2,2,2,1,6,9
+Chelsea,Newcastle United,2,1,27 Oct 2024,Simon Hooper,England,Stamford Bridge,,7,3,6,5,4,3,50,50,7,4,2,1,13,16,12,21,6,3,1,5,8,7
+Crystal Palace,Tottenham Hotspur,1,0,27 Oct 2024,Darren Bond,England,Selhurst Park,,6,3,7,4,1,4,34,66,8,8,4,1,16,12,13,18,4,4,3,5,9,12
+West Ham United,Manchester United,2,1,27 Oct 2024,David Coote,England,London Stadium,,3,5,8,7,1,6,43,58,6,5,3,3,6,7,14,24,5,1,4,1,7,6
+Everton,Fulham,1,1,26 Oct 2024,John Brooks,England,Goodison Park,"38,742",5,3,3,9,2,2,40,60,4,2,4,2,8,8,19,24,1,0,2,4,11,2
+Aston Villa,Bournemouth,1,1,26 Oct 2024,Chris Kavanagh,England,Villa Park,,8,3,5,4,5,3,57,43,9,7,0,5,12,14,14,7,7,6,2,7,9,10
+Brentford,Ipswich Town,4,3,26 Oct 2024,Lewis Smith,England,Gtech Community Stadium,"17,109",9,5,5,6,6,0,65,35,4,5,2,1,7,10,25,11,0,1,2,7,8,9
+Brighton,Wolves,2,2,26 Oct 2024,Michael Oliver,England,The American Express Community Stadium,"31,840",6,7,5,2,8,5,51,49,9,6,2,1,12,10,14,15,3,3,5,4,6,9
+Manchester City,Southampton,1,0,26 Oct 2024,Tony Harrington,England,Etihad Stadium,,8,2,7,2,7,1,57,43,12,1,1,2,9,9,12,11,1,3,2,6,3,8
+Leicester City,Nottingham Forest,1,3,26 Oct 2024,Craig Pawson,England,King Power Stadium,"31,879",1,5,7,9,3,6,64,36,6,7,0,1,16,9,23,10,5,3,2,0,8,12
+Nottingham Forest,Crystal Palace,1,0,22 Oct 2024,Tim Robinson,England,"City Ground, Nottingham","29,443",6,7,5,7,9,6,50,50,6,6,2,2,9,12,21,15,2,3,7,5,9,6
+Liverpool,Chelsea,2,1,20 Oct 2024,John Brooks,England,Anfield,"60,277",5,2,2,5,1,4,43,57,1,5,5,0,12,13,16,14,4,3,1,3,9,4
+Wolves,Manchester City,1,2,20 Oct 2024,Chris Kavanagh,England,Molineux Stadium,"31,319",2,7,1,7,0,8,22,78,1,18,2,1,8,5,11,20,4,1,5,1,9,3
+Bournemouth,Arsenal,2,0,19 Oct 2024,Robert Jones,England,Vitality Stadium,"11,235",4,1,4,4,5,1,49,51,7,4,1,1,12,11,18,12,1,1,1,2,6,7
+Ipswich Town,Everton,0,2,19 Oct 2024,Michael Oliver,England,Portman Road,"29,862",2,8,8,3,3,0,55,45,5,7,1,0,12,10,18,15,1,1,6,2,4,9
+Fulham,Aston Villa,1,3,19 Oct 2024,Darren England,England,Craven Cottage,"26,743",4,5,5,5,1,4,52,48,6,11,2,2,8,11,14,13,3,3,4,3,8,7
+Manchester United,Brentford,2,1,19 Oct 2024,Samuel Barrott,England,Old Trafford,"73,738",11,2,6,4,6,2,50,50,9,2,1,3,4,5,18,16,2,2,1,9,7,8
+Newcastle United,Brighton,0,1,19 Oct 2024,Peter Bankes,England,St James' Park,"52,220",6,5,6,3,9,2,60,40,9,4,3,0,11,9,20,14,2,2,4,6,7,8
+Southampton,Leicester City,2,3,19 Oct 2024,Anthony Taylor,England,St. Mary'S Stadium,"31,145",7,4,5,10,2,4,42,58,10,6,1,2,10,10,16,17,5,3,1,6,11,7
+Tottenham Hotspur,West Ham United,4,1,19 Oct 2024,Andrew Madley,England,Tottenham Hotspur Stadium,"61,381",7,4,9,4,6,3,57,43,13,5,2,1,10,15,18,17,1,3,2,4,7,11
+Brighton,Tottenham Hotspur,3,2,6 Oct 2024,David Coote,England,The American Express Community Stadium,"31,487",4,3,5,7,2,3,41,59,4,7,2,2,14,10,12,17,2,2,1,1,9,6
+Aston Villa,Manchester United,0,0,6 Oct 2024,Robert Jones,England,Villa Park,"42,682",1,4,7,4,3,2,54,47,6,3,0,1,12,11,15,14,1,5,4,1,5,11
+Chelsea,Nottingham Forest,1,1,6 Oct 2024,Chris Kavanagh,England,Stamford Bridge,"39,501",8,9,9,1,5,6,66,34,11,3,1,3,12,11,12,14,6,2,8,7,3,14
+Everton,Newcastle United,0,0,5 Oct 2024,Craig Pawson,England,Goodison Park,"39,265",2,3,5,8,1,3,32,68,0,10,2,3,12,8,14,16,1,2,3,2,9,7
+Arsenal,Southampton,3,1,5 Oct 2024,Tony Harrington,England,Emirates Stadium,"60,307",6,2,13,1,10,5,59,41,13,1,1,0,10,9,18,7,0,3,1,3,1,17
+Brentford,Wolves,5,3,5 Oct 2024,Andrew Madley,England,Gtech Community Stadium,"16,960",12,6,4,7,3,4,44,56,10,3,5,1,9,10,11,12,2,3,3,7,10,10
+Leicester City,Bournemouth,1,0,5 Oct 2024,Darren Bond,England,King Power Stadium,"31,706",2,2,3,11,1,6,44,56,0,9,2,1,12,14,26,17,4,1,2,1,14,8
+Manchester City,Fulham,3,2,5 Oct 2024,Peter Bankes,England,Etihad Stadium,"55,017",7,4,5,3,8,4,58,42,8,3,0,3,4,10,10,12,2,1,2,4,1,8
+West Ham United,Ipswich Town,4,1,5 Oct 2024,Anthony Taylor,England,London Stadium,"62,467",13,2,6,4,4,3,53,47,5,5,3,1,12,6,13,24,0,1,2,8,7,5
+Crystal Palace,Liverpool,0,1,5 Oct 2024,Simon Hooper,England,Selhurst Park,"25,185",5,4,4,7,0,5,32,68,3,8,1,0,7,15,10,22,4,2,3,5,10,7
+Bournemouth,Southampton,3,1,1 Oct 2024,Michael Oliver,England,Vitality Stadium,"11,243",6,3,2,3,6,3,40,60,6,4,1,1,19,12,19,23,2,5,2,3,4,6
+Manchester United,Tottenham Hotspur,0,3,29 Sep 2024,Chris Kavanagh,England,Old Trafford,"73,587",2,10,5,7,4,7,39,61,5,3,2,1,16,14,9,16,5,3,7,2,10,9
+Ipswich Town,Aston Villa,2,2,29 Sep 2024,Stuart Attwell,England,Portman Road,"29,943",5,3,6,4,4,0,44,56,10,0,2,1,10,14,12,12,4,1,1,3,5,10
+Wolves,Liverpool,1,2,28 Sep 2024,Anthony Taylor,England,Molineux Stadium,"31,413",3,6,3,3,2,1,45,55,2,10,1,2,16,8,15,14,2,3,4,2,7,5
+Arsenal,Leicester City,4,2,28 Sep 2024,Samuel Barrott,England,Emirates Stadium,"60,323",16,3,10,1,10,1,75,26,17,0,0,1,11,6,19,16,2,4,1,13,3,10
+Brentford,West Ham United,1,1,28 Sep 2024,Simon Hooper,England,Gtech Community Stadium,"17,050",3,3,2,10,3,6,57,43,7,6,1,2,2,11,18,18,2,3,2,2,13,6
+Chelsea,Brighton,4,2,28 Sep 2024,Peter Bankes,England,Stamford Bridge,"39,495",7,5,5,5,3,5,41,59,8,2,6,2,11,8,11,21,3,2,4,2,8,7
+Everton,Crystal Palace,2,1,28 Sep 2024,Andrew Madley,England,Goodison Park,"38,954",2,5,4,5,2,7,40,60,5,8,2,0,13,11,22,21,2,0,3,0,8,4
+Nottingham Forest,Fulham,0,1,28 Sep 2024,Josh Smith,England,"City Ground, Nottingham","30,139",1,2,5,5,5,7,41,59,6,5,7,1,11,15,13,10,2,4,1,1,5,6
+Newcastle United,Manchester City,1,1,28 Sep 2024,Jarred Gillett,Australia,St James' Park,"52,248",4,6,3,4,4,6,38,62,5,6,1,0,14,10,14,14,4,4,5,3,8,5
+Manchester City,Arsenal,2,2,22 Sep 2024,Michael Oliver,England,Etihad Stadium,"52,846",11,3,9,2,13,0,77,23,8,2,0,1,7,10,20,5,3,4,1,9,3,12
+Brighton,Nottingham Forest,2,2,22 Sep 2024,Robert Jones,England,The American Express Community Stadium,"31,444",3,3,4,0,7,1,70,30,9,1,0,4,12,11,25,16,3,4,2,1,1,12
+Crystal Palace,Manchester United,0,0,21 Sep 2024,David Coote,England,Selhurst Park,"25,172",4,6,3,5,2,4,33,67,4,11,1,0,7,12,9,31,3,2,7,4,11,4
+Aston Villa,Wolves,3,1,21 Sep 2024,Tim Robinson,England,Villa Park,"39,978",4,4,2,1,3,5,53,47,6,5,1,5,11,16,11,12,3,6,3,0,1,7
+Fulham,Newcastle United,3,1,21 Sep 2024,Peter Bankes,England,Craven Cottage,"25,700",11,5,9,8,2,3,39,61,6,0,1,6,16,8,14,19,6,0,4,8,12,11
+Leicester City,Everton,1,1,21 Sep 2024,Darren England,England,King Power Stadium,"31,765",2,5,7,6,3,6,59,42,6,1,2,5,11,12,25,24,1,2,4,1,8,11
+Liverpool,Bournemouth,3,0,21 Sep 2024,Tony Harrington,England,Anfield,"60,347",13,6,3,9,3,4,59,41,3,9,0,3,10,12,19,19,1,4,7,9,7,2
+Southampton,Ipswich Town,1,1,21 Sep 2024,Sam Allison,England,St. Mary'S Stadium,"3,117",3,6,5,4,3,3,54,46,2,10,3,1,16,16,10,14,4,4,5,2,7,1
+Tottenham Hotspur,Brentford,3,1,21 Sep 2024,John Brooks,England,Tottenham Hotspur Stadium,"61,246",10,6,3,0,10,0,48,52,9,4,1,2,11,9,18,16,3,1,5,6,3,10
+West Ham United,Chelsea,0,3,21 Sep 2024,Samuel Barrott,England,London Stadium,"62,473",7,5,3,4,5,3,53,47,6,5,2,1,17,9,9,8,5,2,2,7,4,7
+Wolves,Newcastle United,1,2,15 Sep 2024,Chris Kavanagh,England,Molineux Stadium,"30,255",5,6,5,4,2,4,49,52,4,7,3,2,17,6,21,16,3,3,4,4,8,6
+Tottenham Hotspur,Arsenal,0,1,15 Sep 2024,Jarred Gillett,Australia,Tottenham Hotspur Stadium,"61,645",5,4,4,0,6,3,64,36,7,6,2,3,13,10,22,16,5,3,3,5,3,7
+Bournemouth,Chelsea,0,1,15 Sep 2024,Anthony Taylor,England,Vitality Stadium,"11,235",7,3,8,3,4,4,33,67,6,3,4,3,16,9,17,23,6,8,2,7,2,10
+Aston Villa,Everton,3,2,14 Sep 2024,Craig Pawson,England,Villa Park,"41,920",8,2,6,3,3,1,73,27,6,2,1,3,10,12,18,13,1,4,0,4,1,10
+Brighton,Ipswich Town,0,0,14 Sep 2024,Samuel Barrott,England,The American Express Community Stadium,"31,573",6,1,5,4,10,1,69,31,9,2,1,3,14,16,14,15,4,3,1,6,5,8
+Crystal Palace,Leicester City,2,2,14 Sep 2024,Tony Harrington,England,Selhurst Park,"25,124",4,4,6,4,10,1,67,33,5,2,3,0,11,15,17,24,0,3,2,2,5,6
+Fulham,West Ham United,1,1,14 Sep 2024,Tim Robinson,England,Craven Cottage,"26,528",5,3,8,5,8,3,55,46,3,2,3,2,15,18,28,26,2,3,2,4,6,13
+Liverpool,Nottingham Forest,0,1,14 Sep 2024,Michael Oliver,England,Anfield,"60,344",5,3,6,2,3,0,69,31,7,2,0,5,15,6,31,20,4,4,2,5,4,12
+Manchester City,Brentford,2,1,14 Sep 2024,Darren Bond,England,Etihad Stadium,"55,017",7,5,6,2,5,1,54,46,12,3,1,1,9,3,19,9,3,1,5,5,3,6
+Southampton,Manchester United,0,3,14 Sep 2024,Stuart Attwell,England,St. Mary'S Stadium,"31,144",4,10,1,3,1,7,44,56,0,7,,,11,14,11,17,1,4,7,3,5,3
+Manchester United,Liverpool,0,3,1 Sep 2024,Anthony Taylor,England,Old Trafford,"73,738",3,3,5,6,0,2,53,47,5,2,0,2,7,7,26,22,4,1,0,3,8,5
+Chelsea,Crystal Palace,1,1,1 Sep 2024,Jarred Gillett,Australia,Stamford Bridge,"39,298",7,3,5,1,1,5,63,37,4,4,0,1,9,13,14,17,4,2,2,6,2,12
+Newcastle United,Tottenham Hotspur,2,1,1 Sep 2024,Robert Jones,England,St James' Park,"52,211",3,6,3,6,3,8,34,66,7,12,2,4,16,13,16,20,4,4,6,1,9,3
+West Ham United,Manchester City,1,3,31 Aug 2024,Michael Oliver,England,London Stadium,"62,469",2,8,5,9,3,5,32,68,3,11,0,1,10,3,19,11,3,2,5,2,8,6
+Brentford,Southampton,3,1,31 Aug 2024,Josh Smith,England,Gtech Community Stadium,"16,955",7,6,7,7,6,5,37,63,2,8,1,2,10,7,19,14,2,1,5,4,4,8
+Everton,Bournemouth,2,3,31 Aug 2024,Stuart Attwell,England,Goodison Park,"38,805",8,7,8,5,2,3,48,52,8,4,2,2,5,12,14,19,2,1,4,6,8,14
+Ipswich Town,Fulham,1,1,31 Aug 2024,Lewis Smith,England,Portman Road,"29,517",4,4,3,1,4,4,49,51,8,6,4,0,15,15,7,23,2,3,3,3,4,7
+Leicester City,Aston Villa,1,2,31 Aug 2024,David Coote,England,King Power Stadium,"31,725",3,6,4,1,2,2,57,43,1,4,3,1,13,21,7,13,4,5,4,2,4,10
+Nottingham Forest,Wolves,1,1,31 Aug 2024,Simon Hooper,England,"City Ground, Nottingham","29,918",5,2,5,6,6,3,52,48,7,3,4,0,15,18,15,17,3,4,1,4,7,7
+Arsenal,Brighton,1,1,31 Aug 2024,Chris Kavanagh,England,Emirates Stadium,"60,326",7,3,1,9,3,8,36,64,3,7,3,1,12,7,12,14,3,2,2,6,11,4
+Liverpool,Brentford,2,0,25 Aug 2024,Stuart Attwell,England,Anfield,"60,107",8,2,4,3,7,3,63,37,9,4,1,2,10,7,19,20,2,3,2,6,5,4
+Bournemouth,Newcastle United,1,1,25 Aug 2024,David Coote,England,Vitality Stadium,"11,161",4,5,6,4,4,5,39,61,8,9,,,19,8,18,25,2,2,4,3,9,6
+Wolves,Chelsea,2,6,25 Aug 2024,Darren England,England,Molineux Stadium,"31,235",4,8,6,3,2,3,39,61,5,5,3,1,13,13,19,12,2,3,2,2,3,10
+Aston Villa,Arsenal,0,2,24 Aug 2024,Michael Oliver,England,Villa Park,"41,587",3,4,3,4,5,1,39,61,4,1,3,1,8,15,11,11,1,3,2,3,8,6
+Crystal Palace,West Ham United,0,2,24 Aug 2024,Robert Jones,England,Selhurst Park,"25,099",2,3,8,10,4,5,59,41,3,3,3,2,9,17,17,13,1,1,1,2,10,13
+Fulham,Leicester City,2,1,24 Aug 2024,Darren Bond,England,Craven Cottage,"25,401",6,4,7,4,5,1,55,45,7,5,0,5,14,13,19,10,2,2,3,4,6,12
+Manchester City,Ipswich Town,4,1,24 Aug 2024,Michael Salisbury,England,Etihad Stadium,"53,147",5,1,6,0,3,0,76,24,10,1,3,1,4,15,16,9,2,3,0,1,1,7
+Southampton,Nottingham Forest,0,1,24 Aug 2024,Samuel Barrott,England,St. Mary'S Stadium,"31,150",1,8,1,8,3,7,65,35,4,10,0,1,14,14,13,10,3,3,7,1,9,3
+Tottenham Hotspur,Everton,4,0,24 Aug 2024,Anthony Taylor,England,Tottenham Hotspur Stadium,"61,357",7,1,4,2,3,5,71,29,12,5,0,4,11,15,17,13,,,1,3,2,6
+Brighton,Manchester United,2,1,24 Aug 2024,Craig Pawson,England,The American Express Community Stadium,"31,537",5,4,6,4,3,3,48,52,4,4,0,6,9,13,17,14,1,2,3,3,5,4
+Leicester City,Tottenham Hotspur,1,1,20 Aug 2024,Chris Kavanagh,England,King Power Stadium,"31,977",3,7,3,3,1,5,29,71,2,13,2,1,11,12,16,18,1,1,5,2,6,6
+Chelsea,Manchester City,0,2,18 Aug 2024,Anthony Taylor,England,Stamford Bridge,"39,818",3,5,3,3,4,3,48,52,4,3,2,1,12,9,17,18,1,1,3,3,6,5
+Brentford,Crystal Palace,2,1,18 Aug 2024,Samuel Barrott,England,Gtech Community Stadium,"16,988",5,6,3,5,1,3,46,54,4,7,1,3,6,15,15,16,1,5,6,3,8,10
+West Ham United,Aston Villa,1,2,17 Aug 2024,Tony Harrington,England,London Stadium,"62,463",3,3,6,6,5,6,51,49,5,3,1,1,19,11,13,19,1,2,1,2,7,7
+Arsenal,Wolves,2,0,17 Aug 2024,Jarred Gillett,Australia,Emirates Stadium,"60,261",6,3,6,4,5,2,53,47,8,2,0,1,17,14,17,16,2,2,3,4,6,7
+Everton,Brighton,0,3,17 Aug 2024,Simon Hooper,England,Goodison Park,"39,217",1,5,4,3,4,2,37,63,1,5,7,1,8,8,27,14,1,1,2,1,4,12
+Newcastle United,Southampton,1,0,17 Aug 2024,Craig Pawson,England,St James' Park,"52,196",1,4,0,6,3,10,22,78,3,12,1,2,15,16,11,18,2,4,3,0,10,3
+Nottingham Forest,Bournemouth,1,1,17 Aug 2024,Michael Oliver,England,"City Ground, Nottingham","29,763",8,4,3,6,3,3,53,47,2,6,1,4,16,9,23,17,1,3,3,7,13,6
+Ipswich Town,Liverpool,0,2,17 Aug 2024,Tim Robinson,England,Portman Road,"30,014",2,5,2,5,3,7,38,62,2,10,5,0,9,18,14,24,3,1,3,2,6,4
+Manchester United,Fulham,1,0,17 Aug 2024,Robert Jones,England,Old Trafford,"73,297",5,2,7,4,2,4,56,44,7,8,3,1,12,10,15,15,2,3,2,4,6,10
